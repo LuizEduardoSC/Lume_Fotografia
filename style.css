@@ -1,0 +1,17 @@
+.text-colored {
+    color: #460aeb;
+}
+
+.btn-custom {
+    background-color: #460aeb;
+    color: #fff;
+}
+
+#botao:hover {
+    background-color: #121212;
+}
+
+#botao {
+    background-color: #460aeb;
+    color: #fff;
+}
