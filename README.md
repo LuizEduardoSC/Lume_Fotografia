@@ -4,7 +4,7 @@ Bem-vindo ao **Lume Fotografia**, um site profissional para apresentação de se
 
 ## 📌 Sobre o Projeto
 O site é desenvolvido para destacar serviços de fotografia como **retratos, casamentos, produtos e eventos**, oferecendo informações sobre pacotes disponíveis e contato.
-Você pode ver o site fincionando em: https://lume-fotografia.vercel.app/
+- Você pode ver o site fincionando em: https://lume-fotografia.vercel.app/
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**: Estruturação semântica da página.
